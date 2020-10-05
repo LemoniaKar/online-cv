@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Λεμονιά Καραγιαννάκη
@@ -32,26 +32,18 @@ career-profile:
     title: 
     
 education:
+ - degree: Εργαστήρι Επαγγελματικής Δημοσιογραφίας
+      time: 1995
+      
     - degree: Πληροφορική
       university: ΕΑΠ
       time: 2018
      
 Επάγγελμα:
     - role: Δημόσιος Υπάλληλος
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      company: Βουλή των Ελλήνων
+      details: Διεύθυνση Πληροφορικής και Νέων Τεχνολογιών
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
