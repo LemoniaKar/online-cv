@@ -20,18 +20,8 @@ sidebar:
       - idiom: English
         level: Lower
 
-    Διεύθυνση:
-      - item: Αγίας Ειρήνης 32, 1237 Περιστέρι Αθήνα
-        
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
-    title: #Διεύθυνση Κατοικίας
+    title: Διεύθυνση Κατοικίας
     summary: #|Αγίας Ειρήνης 32 12137 Περιστέρι
 
 education:
@@ -51,7 +41,7 @@ experiences:
        Ανάλυση, αξιολόγηση, υποστήριξη εφαρμογών
 
 projects:
-    title: Ενότητες Μεταπτυχιακού
+    title: Ενοτητες Μεταπτυχιακου
     intro: >
       Έχω ολοκληρώσει ΣΔΥ50, ΣΔΥ51 και φέτος έχω ΣΔΥ60 και ΣΔΥ61
     
