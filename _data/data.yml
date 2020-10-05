@@ -25,13 +25,15 @@ career-profile:
     summary: Αγίας Ειρήνης 32 12137 Περιστέρι Αθήνα
 
 education:
+
+    - degree: Πληροφορική
+      university: Ελληνικό Ανοικτό Πανεπιστήμιο
+      time: 2018
+      
     - degree: Δημοσιογραφία
       university: Εργαστήρι Επαγγελματικής Δημοσιογραφίας
       time: 1995
       
-    - degree: Πληροφορική
-      university: Ελληνικό Ανοικτό Πανεπιστήμιο
-      time: 2018
 
 experiences:
     - role: Διεύθυνση Πληροφορικής και Νέων Τεχνολογιών
@@ -45,8 +47,6 @@ projects:
     intro: >
       Έχω ολοκληρώσει ΣΔΥ50, ΣΔΥ51 και φέτος έχω ΣΔΥ60 και ΣΔΥ61
     
-
-
 
 
 skills:
@@ -70,5 +70,5 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed </i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 
