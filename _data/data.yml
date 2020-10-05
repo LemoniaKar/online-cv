@@ -19,9 +19,11 @@ sidebar:
     languages:
       - idiom: English
         level: Lower
+        
 
 career-profile:
-    title: Διεύθυνση Κατοικίας
+career-profile:
+    title: Διευθυνση Κατοικιας
     summary: #|Αγίας Ειρήνης 32 12137 Περιστέρι
 
 education:
