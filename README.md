@@ -5,8 +5,7 @@
 **Κατοικία**                   Αθήνα
 **τηλέφωνο**                   6972624374
 
-
-![GitHub](/images/github-mark1.png) [LemoniaKar](https://github.com/LemoniaKar)
+**GitHub:** [LemoniaKar](https://github.com/LemoniaKar)
 
 
 
