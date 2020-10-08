@@ -6,8 +6,6 @@
 τηλέφωνο                   6972624374
 
 email                      std138207@ac.eap.gr
-
-GitHub [GitHub](https://github.com/LemoniaKar)
 ```
 
 
