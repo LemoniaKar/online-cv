@@ -1,13 +1,13 @@
 # ΛΕΜΟΝΙΑ ΚΑΡΑΓΙΑΝΝΑΚΗ
 
 ```markdown
-**Κατοικία**                   Αθήνα
+Κατοικία                   Αθήνα
 
-**τηλέφωνο**                   6972624374
+τηλέφωνο                   6972624374
 
-**email**                      std138207@ac.eap.gr
+email                      std138207@ac.eap.gr
 
-**GitHub:** [LemoniaKar](https://github.com/LemoniaKar)
+GitHub [GitHub](https://github.com/LemoniaKar)
 ```
 
 
